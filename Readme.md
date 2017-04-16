@@ -36,7 +36,7 @@ Twitter Clone built with PHP. Uses a custom MVC (Model-View-Controller) Framewor
  
  **Post a Tweet** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/post.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/post2.PNG)   |
  
  **View active users** | 
 --- |
