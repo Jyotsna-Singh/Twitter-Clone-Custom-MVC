@@ -1,29 +1,56 @@
-# Secret Diary
+# Twitter Clone
 
-Secret Diary is an online diary application built with PHP. Users can register to create an account and login to store their thoughts in the diary.
+Twitter Clone built with PHP. Uses a custom MVC (Model-View-Controller) Framework.
 
-* Features/Technologies: 
+* Features: 
+  * Register, Login, User Authentication
+  * Post Tweets
+  * Search tweets by keywords
+  * Follow/Unfollow Users
+  * View all active users & their tweets
+  * View tweets of all users you are following on your timeline
+  * View your own tweets
+  
+  
+* Technologies: 
   * PHP Syntax, PHPMyAdmin, MySQL
   * HTML/CSS
   * Bootstrap
-  * Custom Font
   
 
 ## Version
-1.0
+1.0.0
 
 ## Live Demo
- [SecretDiary](http://jyotsna-singh-com.stackstaging.com/projects/php/SecretDiary/)
+ [Twitter](http://jyotsna-singh-com.stackstaging.com/projects/php/twitter/)
 
 ## Snapshots
   
- **Home** | 
+ **Login** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/home.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/login.PNG)   |
  
- **Diary** | 
+ **View All Tweets** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/diary.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/tweets.PNG)   |
+ 
+ **Post a Tweet** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/post.PNG)   |
+ 
+ **View active users** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/users.PNG)   |
+  
+ **Follow/Unfollow** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/follow.PNG)   |
+ 
+ **Search Bar** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/Twitter-Clone-Custom-MVC/blob/master/img/search.PNG)   |
+ 
+
   
 
 ## License
