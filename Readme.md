@@ -21,8 +21,8 @@ Twitter Clone built with PHP. Uses a custom MVC (Model-View-Controller) Framewor
 ## Version
 1.0.0
 
-## Live Demo
- [Twitter](http://jyotsna-singh-com.stackstaging.com/projects/php/twitter/)
+## Live Demo - Twitter
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/red-button.PNG)](http://jyotsnasingh.com/projects/php/twitter/)
 
 ## Snapshots
   
